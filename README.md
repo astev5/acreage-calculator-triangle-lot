@@ -5,8 +5,8 @@ A program that calculates the acreage of a triangular lot.
 - ask user to input Side A (base) and Side B (height) of a triangular lot
 - determine the acreage
 - inform the user of the following output:
-- - the length of Side C (hypotenuse)
-- - the total acreage
+  - the length of Side C (hypotenuse)
+  - the total acreage
 - use Input and Output methods
 
 ## Notes
